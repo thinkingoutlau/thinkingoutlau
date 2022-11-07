@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Winnie Lau @thinkingoutlau
+- 👀 I’m interested in reading 📚, writing ✍🏼, running 🏃🏻‍♀️, doing yoga 🧘🏻‍♀️, checking out new restaurants 😋, and traveling 🌎!
+- 🌱 I’m currently learning something new every day!
+- 📫 You can reach me at thinkingoutlau@gmail.com or https://www.linkedin.com/in/thinkingoutlau/ :)
