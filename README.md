@@ -1,4 +1,4 @@
-<h1>👋🏼 HELLO, MY NAME IS WINNIE LAU</h1> 
+<h1>HELLO, MY NAME IS WINNIE LAU</h1> 
   
 <p>🗽 And I'm from NYC</p>
 <p>👩🏻‍💻 I am a software engineer and a former educator</p>
