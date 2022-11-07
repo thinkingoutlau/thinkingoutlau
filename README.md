@@ -4,4 +4,4 @@
 <p>👩🏻‍💻 I am a software engineer and a former educator</p>
 <p>🌼 I’m currently learning something new every day</p>
 <p>💓 I love reading 📚, writing ✍🏼, running 🏃🏻‍♀️, doing yoga 🧘🏻‍♀️, checking out new restaurants 😋, & traveling 🌎</p>
-<p>📫 You can reach me at thinkingoutlau@gmail.com or <a href="https://www.linkedin.com/in/thinkingoutlau/" linkedin </a>:)</p>
+<p>📫 You can reach me at thinkingoutlau@gmail.com or <a href="https://www.linkedin.com/in/thinkingoutlau/"</a> linkedin :)</p>
