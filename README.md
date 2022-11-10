@@ -6,4 +6,4 @@
 </p>
 <p>🌼 I’m learning something new every day</p>
 <p>💓 I love reading 📚, writing ✍🏼, running 🏃🏻‍♀️, doing yoga 🧘🏻‍♀️, checking out new restaurants 😋, & traveling 🌎</p>
-<p>📫 You can reach me at thinkingoutlau@gmail.com or <a target="_blank" href="https://www.linkedin.com/in/thinkingoutlau/" at>https://www.linkedin.com/in/thinkingoutlau/</a> :)</p>
+<p>📫 You can reach me at thinkingoutlau@gmail.com or <a target="_blank" href="https://www.linkedin.com/in/thinkingoutlau" at>https://www.linkedin.com/in/thinkingoutlau/</a> :)</p>
